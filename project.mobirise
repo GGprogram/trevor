@@ -831,7 +831,8 @@
             "background-color": "@bgColor",
             ".section-text": {
               "padding": "2rem 0",
-              "letter-spacing": "0.03em"
+              "letter-spacing": "0.03em",
+              "color": "#2a2a2c"
             },
             ".inner-container": {
               "margin": "0 auto",
