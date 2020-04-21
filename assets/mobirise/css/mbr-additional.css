@@ -1006,53 +1006,6 @@ blockquote {
 .cid-rWOGS6AE1o .underline {
   color: #727dfb;
 }
-.cid-rWP5tvvRhO {
-  padding-top: 150px;
-  padding-bottom: 150px;
-  background-color: #2a2a2c;
-}
-.cid-rWP5tvvRhO .row {
-  justify-content: space-between;
-  padding: 0 1rem;
-}
-.cid-rWP5tvvRhO .container {
-  max-width: 1500px;
-}
-.cid-rWP5tvvRhO .content-wrapper {
-  max-width: 800px;
-}
-@media (min-width: 767px) {
-  .cid-rWP5tvvRhO .container {
-    padding: 0 4rem;
-  }
-}
-.cid-rWP5tvvRhO .mbr-text,
-.cid-rWP5tvvRhO .mbr-section-btn {
-  color: #727dfb;
-}
-.cid-rWP5tvvRhO .btn {
-  width: -webkit-fill-available;
-  margin: 0.4rem!important;
-  justify-content: space-between;
-}
-.cid-rWP5tvvRhO .btn .mbr-iconfont {
-  order: 2;
-}
-.cid-rWP5tvvRhO .pt-5 {
-  padding-top: 4rem!important;
-}
-@media (max-width: 922px) {
-  .cid-rWP5tvvRhO .align-left {
-    text-align: center;
-  }
-  .cid-rWP5tvvRhO .row {
-    justify-content: center;
-    padding: 0rem;
-  }
-}
-.cid-rWP5tvvRhO H1 {
-  color: #727dfb;
-}
 .cid-rWOYWJuE0Y {
   padding-top: 90px;
   padding-bottom: 90px;
